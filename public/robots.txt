@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://landing-07-seguros.vercel.app/sitemap.xml
